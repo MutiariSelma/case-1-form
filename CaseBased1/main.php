@@ -5,7 +5,6 @@
 <head>
     <title>Pendaftaran Kursus Ngoding</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="main.css">
     <style>
         body{
             font-family: sans-serif;
