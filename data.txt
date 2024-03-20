@@ -1,0 +1,6 @@
+Selma|a@gmail.com|085|Jalan Veteran|uploads/Kucing.jpeg
+Sam Altman|sama@openai.com|12345678|Fifth Avenue, New York|uploads/sama.png
+Wilz|wilz@wilz.co|0777444777|Monumen Nasional, Jakarta|uploads/yaoming.png
+Selma|a@gmail.com|085|Jalan Veteran|uploads/Kucing.jpeg
+Muhammad Rafli Pradipta|raflipradipta@student.ub.ac.id|082119324377|Jl. Puncak Trikora No.09|uploads/IMG-20231221-WA0014.jpg
+Selma|a@gmail.com|085|jalan puncak trikora|uploads/Kucing.jpeg
